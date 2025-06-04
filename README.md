@@ -12,7 +12,7 @@ cyber.html
 <body style="color: aliceblue;">
     <div class="head">
         <div>
-            <h1><class="head-one">Cyber Security Intern</h1>
+            <h1>Cyber Security Intern</h1>
         </div>
         <div class="head-two">
             <a class="gap">Ethical hacking Intern</a>
