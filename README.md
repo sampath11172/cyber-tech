@@ -61,63 +61,7 @@ cyber.html
             </div>
         </div>
         <div>
-    </div>
-    
+    </div>   
 </body>
 </html>
 
-cyber.css
-.head{
-    display: flex;
-    flex-direction: row;
-    position: static;
-    align-items:center;
-    justify-content: space-between;
-    background-color: rgb(61, 102, 61);
-   height: 30vh;
-}
-.head-two{
-    ;
-    display: flex;
-    flex-direction: row;
-    position: static;
-    align-items: center;
-    justify-content:space-between;
-    text-align: center;
-    border-width: 3px;
-}
-.gap{
-    padding: 18px;
-    border-radius: 20px;
-    border: 2px solid rgb(3, 34, 46);
-    margin: 10px;
-}
-.go img {
-  border-radius: 50%;
-}
-.exp{
-    display: flex;
-    flex-direction: row;
-    position: static;
-    align-items: center;
-     background-color: rgba(104, 181, 104, 0);
-     margin: 80px;
-     justify-content:space-between;
-     font-size: large;
-    
-}
-body {
-    background-image: url("bg.jpg"); 
-    background-size: cover; 
-    background-repeat: no-repeat; 
-    background-position: center; 
-    font-style: normal;
-    font: white;
-}
-.pro1{
-    align-items: center;
-    display: flex;
-    flex-direction: row;
-    
-    
-}
